@@ -36,7 +36,7 @@ Basic usage:
 kora -- [OPTIONS]
 ```
 
-### Configuration
+### Configuration 
 
 #### Command Line Arguments
 
